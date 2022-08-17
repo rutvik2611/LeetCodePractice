@@ -1,2 +1,2 @@
 # LeetCodePractice
-LeetCode
+LeetCode - with solutions
